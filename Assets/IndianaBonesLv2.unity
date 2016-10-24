@@ -2746,9 +2746,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 782d455233c71dc4192939821d797039, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isStart: 0
-  isQuit: 1
-  level: 1
+  isStart: 1
+  isQuit: 0
+  level: 2
 --- !u!102 &1459530949
 TextMesh:
   serializedVersion: 3
